@@ -18,7 +18,7 @@ Open application up in browser. If offline, hit `install` button at top of deplo
 
 ## Mockup
 
-[Heroku deploy]()
+[Heroku deploy](https://elm-pwa-text-editor.herokuapp.com/)
 
 ## Contact/Questions
 
